@@ -1,0 +1,4 @@
+.env
+.faiss
+.pkl
+cb_env
